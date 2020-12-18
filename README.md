@@ -8,3 +8,4 @@ wget http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz
 Here StackGAN is used due to its advantage- StackGAN decomposes the hard problem into more manageable sub-problems through a sketch-refinement process. 
 Environmoent used to implement- Jupyter Notebooks, Google Colaboratory.
 Tensorflow version - 1
+print(tensorflow.__version__)
