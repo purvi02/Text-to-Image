@@ -7,5 +7,5 @@ Download the CUB dataset using the command, or directory from the link and extra
 wget http://www.vision.caltech.edu/visipedia-data/CUB-200-2011/CUB_200_2011.tgz
 Here StackGAN is used due to its advantage- StackGAN decomposes the hard problem into more manageable sub-problems through a sketch-refinement process. 
 Environmoent used to implement- Jupyter Notebooks, Google Colaboratory.
-Tensorflow version - 1
+Tensorflow version - 1.15
 print(tensorflow.__version__)
