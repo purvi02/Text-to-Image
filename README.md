@@ -9,3 +9,4 @@ Here StackGAN is used due to its advantage- StackGAN decomposes the hard problem
 Environmoent used to implement- Jupyter Notebooks, Google Colaboratory.
 Tensorflow version - 1.15
 print(tensorflow.__version__)
+testing is left
