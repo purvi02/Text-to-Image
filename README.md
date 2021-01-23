@@ -11,4 +11,4 @@ Tensorflow version - 1.15
 print(tensorflow.__version__)
 testing is left using h5 files.
 add images.
-see youtube playlist for tf
+see youtube playlist for tf.
