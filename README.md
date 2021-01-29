@@ -10,5 +10,5 @@ Environmoent used to implement- Jupyter Notebooks, Google Colaboratory.
 Tensorflow version - 1.15
 print(tensorflow.__version__)
 testing is left using h5 files.
-add images.
+add images
 see youtube playlist for tf.
